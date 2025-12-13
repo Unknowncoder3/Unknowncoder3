@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/snehasish-das-7a9803219" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:snehasishdas146@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" />
   </a>
 </p>
