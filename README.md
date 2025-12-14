@@ -52,8 +52,8 @@
 🔹 **Spam SMS Detection**  
 > Machine learning model to classify spam messages  
 
-🔹 **Travel Planner (Web)**  
-> Frontend travel planning website using HTML & CSS  
+🔹 **ai-recruitment-screening**  
+> AI-powered candidate screening system using resume, GitHub, academics & local LLMs  
 
 🔹 **Madhav Store Dashboard**  
 > Interactive Power BI dashboard for business insights  
