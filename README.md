@@ -49,14 +49,15 @@
 🔹 **AI-Based Web Scraper**  
 > Intelligent scraping + Q&A system using embeddings and local LLMs  
 
-🔹 **Spam SMS Detection**  
-> Machine learning model to classify spam messages  
+🔹 **Coding_Dsa**  
+>A structured and beginner-friendly repository containing Python implementations of core Data Structures and Algorithms, designed for **coding interviews, problem-solving practice, and FAANG-level preparation.
+ 
 
 🔹 **ai-recruitment-screening**  
 > AI-powered candidate screening system using resume, GitHub, academics & local LLMs  
 
-🔹 **Madhav Store Dashboard**  
-> Interactive Power BI dashboard for business insights  
+🔹 **StudyBuddy*  
+> AI-powered, multi-tool productivity platform that demonstrates real-world AI system integration, full-stack engineering, and applied problem solving.  
 
 ➡️ *Check out my repositories to explore more!*
 
