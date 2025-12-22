@@ -56,7 +56,7 @@
 🔹 **ai-recruitment-screening**  
 > AI-powered candidate screening system using resume, GitHub, academics & local LLMs  
 
-🔹 **StudyBuddy*  
+🔹 **StudyBuddy**  
 > AI-powered, multi-tool productivity platform that demonstrates real-world AI system integration, full-stack engineering, and applied problem solving.  
 
 ➡️ *Check out my repositories to explore more!*
