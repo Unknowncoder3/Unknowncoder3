@@ -53,7 +53,7 @@
 >A structured and beginner-friendly repository containing Python implementations of core Data Structures and Algorithms, designed for **coding interviews, problem-solving practice, and FAANG-level preparation.
  
 
-🔹 **AI-BASED-SCREENING-SYSTEM**  
+🔹 **AI-BASED-RECRUITMENT-SCREENING-SYSTEM**  
 > AI-powered candidate screening system using resume, GitHub, academics & local LLMs  
 
 🔹 **StudyBuddy**  
