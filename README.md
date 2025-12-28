@@ -50,7 +50,7 @@
 > Intelligent scraping + Q&A system using embeddings and local LLMs  
 
 🔹 **Coding_Dsa**  
->A structured and beginner-friendly repository containing Python implementations of core Data Structures and Algorithms, designed for **coding interviews, problem-solving practice, and FAANG-level preparation.
+>A structured and beginner-friendly repository containing Python implementations of core Data Structures and Algorithms, designed for coding interviews, problem-solving practice, and FAANG-level preparation.
  
 
 🔹 **AI-BASED-RECRUITMENT-SCREENING-SYSTEM**  
