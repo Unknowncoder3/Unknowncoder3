@@ -58,7 +58,7 @@ I enjoy working on projects that sit at the intersection of **AI + software engi
 
 🔹 **AI-Based Web Scraper**  
 > Intelligent scraping + Q&A system using embeddings and local LLMs  
-🔗 Repository: https://github.com/Unknowncoder3/AI-based-Web-Scraper  
+🔗 Repository: [https://github.com/Unknowncoder3/AI-based-Web-Scraper ](https://github.com/Unknowncoder3/Ai-based-Web-scrapper) 
 
 🔹 **AI-Based Recruitment Screening System**  
 > AI-powered candidate evaluation using resume, GitHub, academics & local LLMs  
