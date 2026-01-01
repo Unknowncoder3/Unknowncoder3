@@ -102,6 +102,7 @@ I enjoy working on projects that sit at the intersection of **AI + software engi
 ## 🤝 Let's Connect
 
 📌 **LinkedIn:** [https://www.linkedin.com/in/snehasish-das-7a9803219](https://www.linkedin.com/in/snehasish-das-7a9803219)
+
 📌 **Instagram:** [https://www.instagram.com/a_ordinary__guy](https://www.instagram.com/a_ordinary__guy)
 
 ⭐ *If you find my work interesting or useful, feel free to star ⭐ the repositories — it really helps!*
