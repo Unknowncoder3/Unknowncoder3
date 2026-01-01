@@ -50,29 +50,28 @@ I enjoy working on projects that sit at the intersection of **AI + software engi
 * VS Code
 
 ---
-
 ## 📌 Featured Projects
 
-🔹 **AI-Based Travel Planner**
+🔹 **AI-Based Travel Planner**  
+> AI-powered travel assistant using LLMs for personalized itineraries  
+🔗 Repository: https://github.com/Unknowncoder3/AI-based-Travel-Planner  
 
-> AI-powered travel assistant using LLMs for personalized itineraries based on user preferences, budget, and duration.
-> 🔗 *Repository:* Check GitHub repos below
+🔹 **AI-Based Web Scraper**  
+> Intelligent scraping + Q&A system using embeddings and local LLMs  
+🔗 Repository: https://github.com/Unknowncoder3/AI-based-Web-Scraper  
 
-🔹 **AI-Based Web Scraper**
+🔹 **AI-Based Recruitment Screening System**  
+> AI-powered candidate evaluation using resume, GitHub, academics & local LLMs  
+🔗 Repository: https://github.com/Unknowncoder3/ai-recruitment-screening  
 
-> Intelligent web scraping and Q&A system using embeddings and local LLMs for structured content understanding.
+🔹 **StudyBuddy**  
+> AI-powered multi-tool productivity platform with modern UI & applied AI systems  
+🔗 Repository: https://github.com/Unknowncoder3/StudyBuddy  
 
-🔹 **Coding_DSA**
+🔹 **Coding_DSA**  
+> Python-based DSA repository for interviews & problem-solving practice  
+🔗 Repository: https://github.com/Unknowncoder3/Coding_DSA
 
-> A structured and beginner-friendly repository containing Python implementations of core **Data Structures and Algorithms**, designed for **coding interviews, problem-solving practice, and FAANG-level preparation**.
-
-🔹 **AI-Based Recruitment Screening System**
-
-> AI-powered candidate screening system that evaluates **resumes, GitHub profiles, academic performance, and projects**, generating **privacy-first hiring recommendations using local LLMs**.
-
-🔹 **StudyBuddy**
-
-> AI-powered, multi-tool productivity platform demonstrating **real-world AI system integration, full-stack engineering, modern UI/UX, and applied problem-solving** across multiple AI tools.
 
 ➡️ *Check out my repositories below to explore full implementations, documentation, and demos.*
 
