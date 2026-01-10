@@ -86,14 +86,19 @@ I enjoy working on projects that sit at the intersection of **AI + software engi
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity & Impact
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Unknowncoder3&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Unknowncoder3&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unknowncoder3&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Unknowncoder3&theme=tokyonight" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Unknowncoder3&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <sub>Consistent contributor • Project-driven learning • Real-world systems</sub>
 </p>
 
 ---
