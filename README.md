@@ -93,11 +93,7 @@ I enjoy working on projects that sit at the intersection of **AI + software engi
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Unknowncoder3&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=3600" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unknowncoder3&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Unknowncoder3&theme=tokyonight" />
 </p>
 
 <p align="center">
