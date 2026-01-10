@@ -1,4 +1,4 @@
-<img src="banner.png" alt="Snehasish Das Banner" width="100%" />
+<img src="ChatGPT Image Jan 10, 2026, 09_08_32 AM.png" alt="Snehasish Das Banner" width="100%" />
 <h1 align="center">Hi 👋, I'm Snehasish Das</h1>
 <h3 align="center">Final Year CSBS Student | AI & Full-Stack Developer</h3>
 
