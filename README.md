@@ -97,7 +97,7 @@ I enjoy working on projects that sit at the intersection of **AI + software engi
 </p>
 
 <p align="center">
-  <sub>Consistent contributor • Project-driven learning • Real-world systems</sub>
+  Consistent contributor • Project-driven learning • Real-world systems
 </p>
 
 ---
