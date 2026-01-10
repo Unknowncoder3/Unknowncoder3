@@ -20,8 +20,11 @@
 ## 🚀 About Me
 
 🎓 Final year **Computer Science & Business Systems (CSBS)** student
+
 💡 Passionate about **AI, Web Development, and Data-Driven Applications**
+
 🧠 Love building **end-to-end, real-world systems** using **ML, LLMs, and modern web tools**
+
 📈 Constantly learning, shipping projects, and improving **problem-solving & system design skills**
 
 I enjoy working on projects that sit at the intersection of **AI + software engineering + business use cases**, with a strong focus on **practical deployment and clean architecture**.
