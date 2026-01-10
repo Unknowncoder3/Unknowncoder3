@@ -88,8 +88,6 @@ I enjoy working on projects that sit at the intersection of **AI + software engi
 
 ## 📈 GitHub Activity & Impact
 
-## 📈 GitHub Activity & Impact
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Unknowncoder3&theme=tokyonight&hide_border=true" />
 </p>
