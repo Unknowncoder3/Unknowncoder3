@@ -92,9 +92,8 @@ I enjoy working on projects that sit at the intersection of **AI + software engi
 
 ## 📈 GitHub Activity & Impact
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Unknowncoder3&theme=tokyonight&hide_border=true" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Unknowncoder3&theme=tokyonight&hide_border=true)
+
 
 
 <p align="center">
