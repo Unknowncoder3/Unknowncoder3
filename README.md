@@ -92,9 +92,9 @@ I enjoy working on projects that sit at the intersection of **AI + software engi
 
 ## 📈 GitHub Activity & Impact
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Unknowncoder3&theme=tokyonight&hide_border=true)
-
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Unknowncoder3&theme=tokyonight&hide_border=true" />
+</div>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Unknowncoder3&theme=tokyonight" />
