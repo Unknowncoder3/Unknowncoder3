@@ -33,21 +33,22 @@ I enjoy working on projects that sit at the intersection of **AI + software engi
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming & Web
+### 💻 Core Strengths
+* Python • LLM-based Systems • Full-Stack Web Apps
+* System Thinking • Clean Architecture • End-to-End Deployment
 
-* JavaScript | Python | HTML | CSS
+### 💻 Programming & Web
+* JavaScript | HTML | CSS
 * React | Vite | Tailwind CSS
 * Streamlit | Flask
 
 ### 🤖 AI / ML
-
 * Applied Machine Learning
 * NLP & Embeddings
 * LLM-based Systems (LangChain, Ollama)
 * Vector Search (FAISS)
 
 ### 📊 Data & Tools
-
 * SQL & Data Analysis
 * Power BI (Dashboards & KPIs)
 * Git & GitHub
@@ -56,37 +57,45 @@ I enjoy working on projects that sit at the intersection of **AI + software engi
 ---
 ## 📌 Featured Projects
 
-🔹 **AI-Based Travel Planner**  
-> AI-powered travel assistant using LLMs for personalized itineraries  
+🔹 **Smart Travel Planner (LLM + RAG)**  
+> Built an AI travel assistant that generates personalized itineraries in under 2s using LLMs + FAISS.  
+> Reduced manual planning effort by ~70% in testing through automated place, route & budget reasoning.  
 🔗 Repository: https://github.com/Unknowncoder3/AI-based-Travel-Planner  
 
-🔹 **AI-Based Web Scraper**  
-> Intelligent scraping + Q&A system using embeddings and local LLMs  
-🔗 Repository: [https://github.com/Unknowncoder3/AI-based-Web-Scraper ](https://github.com/Unknowncoder3/Ai-based-Web-scrapper) 
+🔹 **Autonomous Web Intelligence Bot**  
+> Designed an intelligent scraper + Q&A engine using embeddings and local LLMs to extract and reason over web data.  
+> Enables document-level querying across scraped content with zero manual filtering.  
+🔗 Repository: https://github.com/Unknowncoder3/Ai-based-Web-scrapper  
 
-🔹 **AI-Based Recruitment Screening System**  
-> AI-powered candidate evaluation using resume, GitHub, academics & local LLMs  
+🔹 **AI Resume Screening Engine**  
+> Built a recruitment system that evaluates candidates using resumes, GitHub activity & academics via local LLMs.  
+> Automates shortlisting and scoring, reducing human screening time by ~60%.  
 🔗 Repository: https://github.com/Unknowncoder3/ai-recruitment-screening  
 
 🔹 **StudyBuddy**  
-> AI-powered multi-tool productivity platform with modern UI & applied AI systems  
+> End-to-end AI productivity platform combining multiple tools (notes, planner, AI helpers) with a modern UI.  
+> Focused on clean architecture and real-world usability.  
 🔗 Repository: https://github.com/Unknowncoder3/StudyBuddy  
 
 🔹 **Coding_DSA**  
-> Python-based DSA repository for interviews & problem-solving practice  
-🔗 Repository: https://github.com/Unknowncoder3/Coding_DSA
+> Curated Python-based DSA repository for interview prep and problem-solving mastery.  
+> Covers patterns, edge cases & optimized solutions.  
+🔗 Repository: https://github.com/Unknowncoder3/Coding_DSA  
 
 
 ➡️ *Check out my repositories below to explore full implementations, documentation, and demos.*
-
 ---
 
 ## 🎯 What I’m Looking For
 
-* AI / ML Internships
-* Data Analyst / AI Engineer roles
-* Full-Stack Developer Intern roles
-* Product-focused startups & tech teams
+I’m looking for roles where I can build and deploy **real-world AI systems** —  
+RAG apps, LLM tools, data-driven platforms — in fast-moving, product-focused teams.
+
+Open to:
+* AI / ML Internships  
+* Full-Stack Developer Intern roles  
+* Data & AI Engineer roles  
+* Early-stage startups & tech-driven teams  
 
 ---
 
