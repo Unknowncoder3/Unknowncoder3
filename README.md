@@ -101,9 +101,9 @@ Open to:
 
 ## 📈 GitHub Activity & Impact
 
-<div align="center">
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=Unknowncoder3&theme=tokyonight&hide_border=true" />
-</div>
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Unknowncoder3&theme=tokyonight" />
