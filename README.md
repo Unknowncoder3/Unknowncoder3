@@ -102,7 +102,8 @@ Open to:
 ## 📈 GitHub Activity & Impact
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DenverCoder1/github-readme-streak-stats/master/docs/demo.svg?user=Unknowncoder3&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Unknowncoder3&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unknowncoder3&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
