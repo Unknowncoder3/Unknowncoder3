@@ -102,7 +102,7 @@ Open to:
 ## 📈 GitHub Activity & Impact
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Unknowncoder3&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/DenverCoder1/github-readme-streak-stats/master/docs/demo.svg?user=Unknowncoder3&theme=tokyonight" />
 </p>
 
 <p align="center">
