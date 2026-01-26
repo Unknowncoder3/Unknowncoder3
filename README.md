@@ -57,6 +57,16 @@ I enjoy working on projects that sit at the intersection of **AI + software engi
 ---
 ## 📌 Featured Projects
 
+🔹 **Early Behavioral Screening Assistant (AI + CV + LLM)**  
+> Built a privacy-first behavioral observation system that analyzes short videos to extract early behavioral signals.  
+> Combines computer vision with LLM-based reasoning to produce explainable, non-diagnostic screening insights for real-world use.  
+🔗 Repository: https://github.com/Unknowncoder3/Early-behavioral-screening-AI  
+
+🔹 **AI Resume Screening Engine**  
+> Built a recruitment system that evaluates candidates using resumes, GitHub activity & academics via local LLMs.  
+> Automates shortlisting and scoring, reducing human screening time by ~60%.  
+🔗 Repository: https://github.com/Unknowncoder3/ai-recruitment-screening  
+
 🔹 **Smart Travel Planner (LLM + RAG)**  
 > Built an AI travel assistant that generates personalized itineraries in under 2s using LLMs + FAISS.  
 > Reduced manual planning effort by ~70% in testing through automated place, route & budget reasoning.  
@@ -67,23 +77,13 @@ I enjoy working on projects that sit at the intersection of **AI + software engi
 > Enables document-level querying across scraped content with zero manual filtering.  
 🔗 Repository: https://github.com/Unknowncoder3/Ai-based-Web-scrapper  
 
-🔹 **AI Resume Screening Engine**  
-> Built a recruitment system that evaluates candidates using resumes, GitHub activity & academics via local LLMs.  
-> Automates shortlisting and scoring, reducing human screening time by ~60%.  
-🔗 Repository: https://github.com/Unknowncoder3/ai-recruitment-screening  
-
 🔹 **StudyBuddy**  
 > End-to-end AI productivity platform combining multiple tools (notes, planner, AI helpers) with a modern UI.  
 > Focused on clean architecture and real-world usability.  
 🔗 Repository: https://github.com/Unknowncoder3/StudyBuddy  
 
-🔹 **Coding_DSA**  
-> Curated Python-based DSA repository for interview prep and problem-solving mastery.  
-> Covers patterns, edge cases & optimized solutions.  
-🔗 Repository: https://github.com/Unknowncoder3/Coding_DSA  
-
-
 ➡️ *Check out my repositories below to explore full implementations, documentation, and demos.*
+
 ---
 
 ## 🎯 What I’m Looking For
@@ -125,4 +125,3 @@ Open to:
 ⭐ *If you find my work interesting or useful, feel free to star ⭐ the repositories — it really helps!*
 
 ---
-
