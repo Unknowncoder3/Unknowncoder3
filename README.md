@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-🎓 Final year **Computer Science & Business Systems (CSBS)** student
+🎓 A **Computer Science & Business Systems (CSBS)** student
 
 💡 Passionate about **AI, Web Development, and Data-Driven Applications**
 
