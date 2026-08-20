@@ -102,22 +102,19 @@ I’m looking for opportunities where I can build and deploy **real-world AI and
 RAG applications, LLM tools, data analytics solutions, business intelligence dashboards, and intelligent software platforms — in fast-moving, product-focused teams.
 
 Open to:
-* Data Analyst roles
-* Business Intelligence Analyst roles
-* AI / ML Engineer roles
-* Data & AI Engineer roles
-* Applied AI Engineer roles
+* Data Analyst / BI Analyst
+
+* AI / ML Engineer
+
+* Applied AI / Data & AI Engineer
+
 * AI-focused Software Engineering roles
-* Early-stage startups & tech-driven teams
+
+
 
 ---
 
 ## 📈 GitHub Activity & Impact
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Unknowncoder3&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unknowncoder3&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Unknowncoder3&theme=tokyonight" />
