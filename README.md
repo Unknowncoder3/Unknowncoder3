@@ -1,13 +1,13 @@
 <img src="banner.png" alt="Snehasish Das Banner" width="100%" />
 <h1 align="center">Hi 👋, I'm Snehasish Das</h1>
-<h3 align="center">Final Year CSBS Student | AI & Full-Stack Developer</h3>
+<h3 align="center">AI & Data Analyst | Applied AI Developer</h3>
 
 <p align="center">
-  <b>Building real-world AI systems that combine ML, LLMs, data, and clean user experiences.</b>
+  <b>Building real-world AI and data-driven systems that combine ML, LLMs, analytics, and clean user experiences.</b>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/snehasish-das-7a9803219" target="_blank">
+  <a href="https://www.linkedin.com/in/snehasish-das-b75a551b0/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
   </a>
   <a href="mailto:snehasishdas146@gmail.com">
@@ -19,22 +19,24 @@
 
 ## 🚀 About Me
 
-🎓 A **Computer Science & Business Systems (CSBS)** student
+🎓 A **Computer Science & Business Systems (CSBS) Graduate**
 
-💡 Passionate about **AI, Web Development, and Data-Driven Applications**
+💡 Passionate about **AI, Data Analytics, Business Intelligence, and Data-Driven Applications**
 
-🧠 Love building **end-to-end, real-world systems** using **ML, LLMs, and modern web tools**
+🧠 Love building **end-to-end, real-world systems** using **Machine Learning, LLMs, Data Analytics, and modern web tools**
+
+📊 Experienced in working with **Python, SQL, Pandas, Tableau, Power BI, and Machine Learning**
 
 📈 Constantly learning, shipping projects, and improving **problem-solving & system design skills**
 
-I enjoy working on projects that sit at the intersection of **AI + software engineering + business use cases**, with a strong focus on **practical deployment and clean architecture**.
+I enjoy working on projects that sit at the intersection of **AI + data analytics + software engineering + business use cases**, with a strong focus on **practical deployment, meaningful insights, and clean architecture**.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Core Strengths
-* Python • LLM-based Systems • Full-Stack Web Apps
+* Python • Data Analytics • LLM-based Systems • Full-Stack Web Apps
 * System Thinking • Clean Architecture • End-to-End Deployment
 
 ### 💻 Programming & Web
@@ -47,14 +49,22 @@ I enjoy working on projects that sit at the intersection of **AI + software engi
 * NLP & Embeddings
 * LLM-based Systems (LangChain, Ollama)
 * Vector Search (FAISS)
+* Computer Vision
 
-### 📊 Data & Tools
+### 📊 Data & Analytics
 * SQL & Data Analysis
+* Pandas | NumPy
+* Matplotlib
+* Tableau
 * Power BI (Dashboards & KPIs)
+* Microsoft Excel
+
+### 🧰 Tools
 * Git & GitHub
 * VS Code
 
 ---
+
 ## 📌 Featured Projects
 
 🔹 **Early Behavioral Screening Assistant (AI + CV + LLM)**  
@@ -88,14 +98,17 @@ I enjoy working on projects that sit at the intersection of **AI + software engi
 
 ## 🎯 What I’m Looking For
 
-I’m looking for roles where I can build and deploy **real-world AI systems** —  
-RAG apps, LLM tools, data-driven platforms — in fast-moving, product-focused teams.
+I’m looking for opportunities where I can build and deploy **real-world AI and data-driven systems** —  
+RAG applications, LLM tools, data analytics solutions, business intelligence dashboards, and intelligent software platforms — in fast-moving, product-focused teams.
 
 Open to:
-* AI / ML Internships  
-* Full-Stack Developer Intern roles  
-* Data & AI Engineer roles  
-* Early-stage startups & tech-driven teams  
+* Data Analyst roles
+* Business Intelligence Analyst roles
+* AI / ML Engineer roles
+* Data & AI Engineer roles
+* Applied AI Engineer roles
+* AI-focused Software Engineering roles
+* Early-stage startups & tech-driven teams
 
 ---
 
@@ -118,7 +131,7 @@ Open to:
 
 ## 🤝 Let's Connect
 
-📌 **LinkedIn:** [https://linkedin.com/in/snehasish-das-5866bb3a2](https://linkedin.com/in/snehasish-das-5866bb3a2)
+📌 **LinkedIn:** [https://www.linkedin.com/in/snehasish-das-b75a551b0/](https://www.linkedin.com/in/snehasish-das-b75a551b0/)
 
 📌 **Instagram:** [https://www.instagram.com/a_ordinary__guy](https://www.instagram.com/a_ordinary__guy)
 
