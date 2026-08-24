@@ -1,137 +1,120 @@
 <img src="banner.png" alt="Snehasish Das Banner" width="100%" />
+
 <h1 align="center">Hi 👋, I'm Snehasish Das</h1>
-<h3 align="center">AI & Data Analyst | Applied AI Developer</h3>
+<h3 align="center">Data Analyst | Applied AI Developer | Python & ML</h3>
 
 <p align="center">
-  <b>Building real-world AI and data-driven systems that combine ML, LLMs, analytics, and clean user experiences.</b>
+  <b>Building practical AI and data-driven applications that turn real-world problems into usable solutions.</b>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/snehasish-das-b75a551b0/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
-  </a>
-  <a href="mailto:snehasishdas146@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" />
-  </a>
-</p>
-
----
-
-## 🚀 About Me
-
-🎓 A **Computer Science & Business Systems (CSBS) Graduate**
-
-💡 Passionate about **AI, Data Analytics, Business Intelligence, and Data-Driven Applications**
-
-🧠 Love building **end-to-end, real-world systems** using **Machine Learning, LLMs, Data Analytics, and modern web tools**
-
-📊 Experienced in working with **Python, SQL, Pandas, Tableau, Power BI, and Machine Learning**
-
-📈 Constantly learning, shipping projects, and improving **problem-solving & system design skills**
-
-I enjoy working on projects that sit at the intersection of **AI + data analytics + software engineering + business use cases**, with a strong focus on **practical deployment, meaningful insights, and clean architecture**.
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Core Strengths
-* Python • Data Analytics • LLM-based Systems • Full-Stack Web Apps
-* System Thinking • Clean Architecture • End-to-End Deployment
-
-### 💻 Programming & Web
-* JavaScript | HTML | CSS
-* React | Vite | Tailwind CSS
-* Streamlit | Flask
-
-### 🤖 AI / ML
-* Applied Machine Learning
-* NLP & Embeddings
-* LLM-based Systems (LangChain, Ollama)
-* Vector Search (FAISS)
-* Computer Vision
-
-### 📊 Data & Analytics
-* SQL & Data Analysis
-* Pandas | NumPy
-* Matplotlib
-* Tableau
-* Power BI (Dashboards & KPIs)
-* Microsoft Excel
-
-### 🧰 Tools
-* Git & GitHub
-* VS Code
-
----
-
-## 📌 Featured Projects
-
-🔹 **Early Behavioral Screening Assistant (AI + CV + LLM)**  
-> Built a privacy-first behavioral observation system that analyzes short videos to extract early behavioral signals.  
-> Combines computer vision with LLM-based reasoning to produce explainable, non-diagnostic screening insights for real-world use.  
-🔗 Repository: https://github.com/Unknowncoder3/Early-behavioral-screening-AI  
-
-🔹 **AI Resume Screening Engine**  
-> Built a recruitment system that evaluates candidates using resumes, GitHub activity & academics via local LLMs.  
-> Automates shortlisting and scoring, reducing human screening time by ~60%.  
-🔗 Repository: https://github.com/Unknowncoder3/ai-recruitment-screening  
-
-🔹 **Smart Travel Planner (LLM + RAG)**  
-> Built an AI travel assistant that generates personalized itineraries in under 2s using LLMs + FAISS.  
-> Reduced manual planning effort by ~70% in testing through automated place, route & budget reasoning.  
-🔗 Repository: https://github.com/Unknowncoder3/AI-based-Travel-Planner  
-
-🔹 **Autonomous Web Intelligence Bot**  
-> Designed an intelligent scraper + Q&A engine using embeddings and local LLMs to extract and reason over web data.  
-> Enables document-level querying across scraped content with zero manual filtering.  
-🔗 Repository: https://github.com/Unknowncoder3/Ai-based-Web-scrapper  
-
-🔹 **StudyBuddy**  
-> End-to-end AI productivity platform combining multiple tools (notes, planner, AI helpers) with a modern UI.  
-> Focused on clean architecture and real-world usability.  
-🔗 Repository: https://github.com/Unknowncoder3/StudyBuddy  
-
-➡️ *Check out my repositories below to explore full implementations, documentation, and demos.*
-
----
-
-## 🎯 What I’m Looking For
-
-I’m looking for opportunities where I can build and deploy **real-world AI and data-driven systems** —  
-RAG applications, LLM tools, data analytics solutions, business intelligence dashboards, and intelligent software platforms — in fast-moving, product-focused teams.
-
-Open to:
-* Data Analyst / BI Analyst
-
-* AI / ML Engineer
-
-* Applied AI / Data & AI Engineer
-
-* AI-focused Software Engineering roles
-
-
-
----
-
-## 📈 GitHub Activity & Impact
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Unknowncoder3&theme=tokyonight" />
-</p>
-
-<p align="center">
-  Consistent contributor • Project-driven learning • Real-world systems
+  <a href="https://www.linkedin.com/in/snehasish-das-b75a551b0/">LinkedIn</a> •
+  <a href="mailto:snehasishdas146@gmail.com">Email</a> •
+  <a href="https://github.com/Unknowncoder3">GitHub</a> •
+  <a href="https://public.tableau.com/app/profile/snehasish.das4354">Tableau Public</a>
 </p>
 
 ---
 
-## 🤝 Let's Connect
+## 👨‍💻 About Me
 
-📌 **LinkedIn:** [https://www.linkedin.com/in/snehasish-das-b75a551b0/](https://www.linkedin.com/in/snehasish-das-b75a551b0/)
+I'm a Computer Science & Business Systems (CSBS) student focused on **Data Analytics, Business Intelligence, Applied AI, and Python-based software development**.
 
-📌 **Instagram:** [https://www.instagram.com/a_ordinary__guy](https://www.instagram.com/a_ordinary__guy)
+I enjoy building end-to-end projects that combine:
 
-⭐ *If you find my work interesting or useful, feel free to star ⭐ the repositories — it really helps!*
+- 📊 Data analysis, visualization, and business intelligence
+- 🤖 Machine learning, NLP, computer vision, and LLM applications
+- 🧠 RAG, embeddings, recommendation systems, and intelligent automation
+- 🐍 Python, SQL, Pandas, NumPy, Flask, and Streamlit
+- 📈 Power BI, Tableau, Excel, and business-focused dashboards
+
+My goal is to build reliable, well-documented systems that demonstrate both **technical problem solving and business understanding**.
 
 ---
+
+## 🛠️ Technical Skills
+
+### Programming & Development
+`Python` `SQL` `Java` `C` `C++` `JavaScript` `HTML` `CSS`
+
+### Data & Analytics
+`Pandas` `NumPy` `Matplotlib` `Excel` `Power BI` `Tableau` `EDA` `RFM Analysis` `Data Cleaning` `Data Visualization`
+
+### AI / ML
+`Scikit-learn` `NLP` `Computer Vision` `LLMs` `RAG` `Embeddings` `FAISS` `Recommendation Systems`
+
+### Web & Tools
+`Flask` `Streamlit` `React` `Vite` `Git` `GitHub` `REST APIs`
+
+---
+
+## ⭐ Featured Projects
+
+### 🤖 AI-Based Candidate Screening System
+End-to-end recruitment platform combining **resume analysis, GitHub analysis, academic evaluation, AI-assisted interviews, voice interaction, proctoring signals, and an explainable hiring decision engine** using Python, Streamlit, OpenCV, and local LLMs.
+
+🔗 [Repository](https://github.com/Unknowncoder3/AI-BASED-RECRUITMENT-SCREENING)
+
+### 🛒 E-Commerce Customer Intelligence & Sales Analytics
+End-to-end analytics project using **Python, Pandas, RFM customer segmentation, and Tableau** to analyze revenue, products, customer behavior, geographic performance, and business trends.
+
+🔗 [Repository](https://github.com/Unknowncoder3/E-Commerce-Customer-Intelligence-Sales-Analytics) • [Tableau Dashboard](https://public.tableau.com/app/profile/snehasish.das4354)
+
+### 🧠 Early Behavioral Screening AI
+Privacy-first research prototype combining **computer vision, video analysis, structured behavioral signals, and LLM-based interpretation** with non-diagnostic outputs and local processing.
+
+🔗 [Repository](https://github.com/Unknowncoder3/Early-behavioral-screening-AI)
+
+### 🌍 AI-Based Travel Planner
+Python/Flask travel planning application that combines user preferences, data processing, recommendation logic, weather information, and a web interface to generate personalized travel plans.
+
+🔗 [Repository](https://github.com/Unknowncoder3/AI-based-Travel-Planner) • [Live Demo](https://globetrotter.streamlit.app/)
+
+### 🎓 StudyBuddy
+AI productivity platform built with **Flask, Python, HTML/CSS, and JavaScript**, bringing together code analysis, PDF analysis, voice interaction, web extraction, and video-analysis workflows.
+
+🔗 [Repository](https://github.com/Unknowncoder3/StudyBuddy)
+
+### 📊 Madhav Store Sales Dashboard
+Power BI business intelligence project covering **sales, profit, customer, category, product, discount, and time-based analysis** using DAX, Power Query, and data modeling.
+
+🔗 [Repository](https://github.com/Unknowncoder3/MADHAV-STORE-DASHBOARD)
+
+### 💼 HR Analytics Dashboard
+Business analytics project focused on workforce metrics, employee trends, and HR decision support through interactive dashboarding.
+
+🔗 [Repository](https://github.com/Unknowncoder3/HR-Analytics-Dashboard)
+
+---
+
+## 🎯 Career Focus
+
+I'm interested in opportunities in:
+
+- **Data Analyst / BI Analyst**
+- **Applied AI / AI Engineer**
+- **Machine Learning / Data & AI Engineer**
+- **Python / AI-focused Software Engineering**
+
+I'm especially interested in teams where I can work with **data, AI systems, automation, analytics, and real-world product problems**.
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Unknowncoder3&theme=tokyonight" alt="GitHub Profile Details" />
+</p>
+
+---
+
+## 📫 Connect
+
+- 💼 LinkedIn: [Snehasish Das](https://www.linkedin.com/in/snehasish-das-b75a551b0/)
+- 📊 Tableau: [Tableau Public](https://public.tableau.com/app/profile/snehasish.das4354)
+- 💻 GitHub: [Unknowncoder3](https://github.com/Unknowncoder3)
+- ✉️ Email: [snehasishdas146@gmail.com](mailto:snehasishdas146@gmail.com)
+
+---
+
+⭐ If you find a project useful, feel free to explore the repository and leave a star.
